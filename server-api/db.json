@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "9cb8d87d-c6ff-4843-9238-911a43adf8cf",
+      "name": "thiraphong (Web dev)",
+      "email": "thiraphong61@gmail.com"
+    },
+    {
+      "id": "6269f5f1-0b0c-4cfc-a4f8-58c62f6f09be",
+      "name": "JackieChan (Graphic Design)",
+      "email": "jackiechan2022@gmail.com"
+    },
+    {
+      "id": "5576eb01-2b96-4235-8546-ec5a38a1960c",
+      "name": "Sakkarin (UX/UI)",
+      "email": "sakkarin_dawlai55@gmail.com"
+    },
+    {
+      "id": "e6090125-0f2e-451f-99be-9858b25cca00",
+      "name": "Aooddy (HR)",
+      "email": "hrcompany_family@gmail.com"
+    },
+    {
+      "id": "54973393-a883-4b09-9c88-ac52555362b0",
+      "name": "Tor (Web dev (Full stack))",
+      "email": "tor_dev22@gmail.com"
+    }
+  ]
+}
